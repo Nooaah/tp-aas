@@ -1,0 +1,1 @@
+INSERT INTO posts(message, id_member, timestamp) VALUES('Message', 1, 1648913539)
